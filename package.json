@@ -1,0 +1,17 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gleb Laychenkov",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.1.1",
+    "puppeteer": "^23.3.0",
+    "puppeteer-core": "^23.3.0"
+  },
+  "description": ""
+}
